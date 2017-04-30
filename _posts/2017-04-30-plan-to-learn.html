@@ -1,0 +1,11 @@
+---
+layout: default
+title: 我的计划
+---
+<ul>
+{% for t in site.data.techs %}
+    <li>
+    	{{ t.name }}
+    </li>
+{% endfor %}
+</ul>
