@@ -1,0 +1,14 @@
+---
+
+---
+
+@import "{{ site.theme }}";
+
+header {
+	h1{
+		&>a{
+			text-decoration: none;
+			color:inherit;
+		}
+	}
+}
