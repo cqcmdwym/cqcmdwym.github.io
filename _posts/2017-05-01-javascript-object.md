@@ -1,3 +1,10 @@
+---
+layout: default
+title: javascript-object
+categories: [tech]
+tags: [javascript]
+---
+
 ## case 1
 ```javascript
 'use strict'
